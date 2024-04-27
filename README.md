@@ -24,8 +24,8 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Program:
 ```
-NAME : LATHIKESHWARAN J
-REG NO : 212222230072
+NAME : HARISH G
+REG NO : 212222243001
 ```
 
 ```p
